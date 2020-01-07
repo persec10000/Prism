@@ -1,0 +1,18 @@
+[
+	{
+		"BedTypeID": "1",
+		"BedTypeName": "Single",
+		"BedTypeImage":"https://www.laybrook.com/images/Bed_Icons_2017/half_divan_single_square.png",
+	},
+	{
+		"BedTypeID": "2",
+		"BedTypeName": "Double",
+		"BedTypeImage":"https://www.laybrook.com/images/Bed_Icons_2017/half_divan_double_square.png",
+	},
+	{
+		"BedTypeID": "3",
+		"BedTypeName": "Dual",
+		"BedTypeImage":"https://www.laybrook.com/images/Bed_Icons_2017/half_divan_dual_square.png",
+	},
+
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"ProductID": "1",
+		"ProductName": "Standard Drop Arm x 1",
+		"ProductActualPrice":"195"  
+	},
+	{
+		"ProductID": "2",
+		"ProductName": "Standard Drop Arm x 2",
+		"ProductActualPrice":"295"
+	},
+	{
+		"ProductID": "3",
+		"ProductName": "Electric Drop Arm x 1 (remote control)",
+		"ProductActualPrice":"595"
+    },
+    {
+		"ProductID": "4",
+		"ProductName": "Electric Drop Arm x 2 (remote control)",
+		"ProductActualPrice":"1195"
+	}
+
+]

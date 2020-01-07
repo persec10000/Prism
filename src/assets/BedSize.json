@@ -1,0 +1,18 @@
+[
+	{
+		"BedSizeID": "1",
+		"BedSizeName": "4ft",
+		"BedSizePrice": "2194.00",
+	},
+	{
+		"BedSizeID": "2",
+		"BedSizeName": "5ft",
+		"BedSizePrice": "3090.00",
+	},
+	{
+		"BedSizeID": "3",
+		"BedSizeName": "6ft",
+		"BedSizePrice": "3190.00",
+	},
+
+]

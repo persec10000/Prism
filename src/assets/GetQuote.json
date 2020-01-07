@@ -1,0 +1,71 @@
+{
+
+    "Name":{
+		"FullName": "user",
+		"Email": "user@gmail.com",
+		"Phone": "1234567890",
+		"Type": "other",
+	},
+	"item":[
+		{   
+			"Type":{
+				"BedTypeID": "1",
+				"BedTypeName": "Single",
+				"BedTypeImage":"https://www.laybrook.com/images/Bed_Icons_2017/half_divan_single_square.png",
+			},
+		    "Size":{
+				"BedSizeID": "1",
+				"BedSizeName": "4ft",
+				"BedSizePrice": "2194.00",
+			},
+			"Mattress":{
+				"AddMattressID": "1",
+				"AddMattressName": "Standard Reflex",
+				"AddMattressPrice": "Free",
+			},
+			"Accessories":[
+			    {
+				  "AddAccessoriesID": "1",
+				  "AddAccessoriesName": "Arena Grab Ring",
+				  "AddAccessoriesPrice": "100.00",
+			    },
+			  	{
+				  "AddAccessoriesID": "2",
+				  "AddAccessoriesName": "Cotside X 1",
+				  "AddAccessoriesPrice": "75.00",
+			  }
+			],
+			"TotalPrice":{"2369"}
+		},
+		{   
+			"Type":{
+				"BedTypeID": "1",
+				"BedTypeName": "Single",
+				"BedTypeImage":"https://www.laybrook.com/images/Bed_Icons_2017/half_divan_single_square.png",
+			},
+		    "Size":{
+				"BedSizeID": "1",
+				"BedSizeName": "4ft",
+				"BedSizePrice": "2194.00",
+			},
+			"Mattress":{
+				"AddMattressID": "1",
+				"AddMattressName": "Standard Reflex",
+				"AddMattressPrice": "Free",
+			},
+			"Accessories":[
+			    {
+				  "AddAccessoriesID": "1",
+				  "AddAccessoriesName": "Arena Grab Ring",
+				  "AddAccessoriesPrice": "100.00",
+			    },
+			  	{
+				  "AddAccessoriesID": "2",
+				  "AddAccessoriesName": "Cotside X 1",
+				  "AddAccessoriesPrice": "75.00",
+			  }
+			],
+			"TotalPrice":{"2369"}
+		}
+	]
+}
